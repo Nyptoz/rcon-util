@@ -1,0 +1,6 @@
+# Ignore builds
+/build/
+*.exe
+
+# config files and passwords
+*.json
